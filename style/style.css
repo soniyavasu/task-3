@@ -1,0 +1,72 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+section{
+	width:600px;
+	margin:20px auto;
+	border:1px solid gray;
+}
+.task{
+	position:relative;
+}
+.button{
+	font-size:20px;
+	background-color:orange;
+	color:white;
+	border:0px;
+	top:15px;
+	left:0px;
+	width:100px;
+	height:40px;
+	position:absolute;
+	
+}
+#icon1{
+	color:gray; 
+	position:absolute;
+	top:15px;
+	right:10px;
+	font-size:35px;
+}
+.image1 img{
+	border-radius:50%;
+}
+span{
+	margin:15px;
+	padding-left:10px;
+	font-size:20px;
+}
+#icon2{
+	position:relative;
+	font-size:25px;
+	color:orange;
+	left:250px;
+}
+.stext{
+	margin:15px;
+	left:230px;
+	position:relative;
+}
+.text{
+	margin:15px;
+	font-size:35px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
